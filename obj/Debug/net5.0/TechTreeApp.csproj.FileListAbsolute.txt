@@ -1,0 +1,170 @@
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.StaticWebAssets.xml
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.exe
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.deps.json
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.runtimeconfig.json
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.runtimeconfig.dev.json
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\ref\TechTreeApp.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.Views.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\TechTreeApp.Views.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.csproj.AssemblyReference.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.AssemblyInfoInputs.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.AssemblyInfo.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorAssemblyInfo.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorAssemblyInfo.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\staticwebassets\TechTreeApp.StaticWebAssets.Manifest.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\staticwebassets\TechTreeApp.StaticWebAssets.xml
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\scopedcss\bundle\TechTreeApp.styles.css
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.TagHelpers.input.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.TagHelpers.output.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorCoreGenerate.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorTargetAssemblyInfo.cs
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.Views.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.csproj.CopyComplete
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\ref\TechTreeApp.dll
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.pdb
+C:\Users\Desarrollo TI\source\repos\TechTreeApp\TechTreeApp\obj\Debug\net5.0\TechTreeApp.genruntimeconfig.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\appsettings.json
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.StaticWebAssets.xml
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.exe
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.deps.json
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.runtimeconfig.json
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.runtimeconfig.dev.json
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\ref\TechTreeApp.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.Views.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\TechTreeApp.Views.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.csproj.AssemblyReference.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.AssemblyInfoInputs.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.AssemblyInfo.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorAssemblyInfo.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorAssemblyInfo.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\staticwebassets\TechTreeApp.StaticWebAssets.Manifest.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\staticwebassets\TechTreeApp.StaticWebAssets.xml
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\scopedcss\bundle\TechTreeApp.styles.css
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.TagHelpers.input.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.TagHelpers.output.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorCoreGenerate.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorTargetAssemblyInfo.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.RazorTargetAssemblyInfo.cs
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.Views.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.csproj.CopyComplete
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\ref\TechTreeApp.dll
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.pdb
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.genruntimeconfig.cache
