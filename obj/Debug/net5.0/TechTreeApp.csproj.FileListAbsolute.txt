@@ -168,3 +168,4 @@ C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.dll
 C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\ref\TechTreeApp.dll
 C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.pdb
 C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\TechTreeApp.genruntimeconfig.cache
+C:\Users\jcsaladin\source\repos\TechTreeApp\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
