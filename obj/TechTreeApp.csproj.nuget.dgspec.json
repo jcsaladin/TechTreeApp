@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desarrollo TI\\source\\repos\\TechTreeApp\\TechTreeApp.csproj": {}
+    "C:\\Users\\jcsaladin\\source\\repos\\TechTreeApp\\TechTreeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desarrollo TI\\source\\repos\\TechTreeApp\\TechTreeApp.csproj": {
+    "C:\\Users\\jcsaladin\\source\\repos\\TechTreeApp\\TechTreeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desarrollo TI\\source\\repos\\TechTreeApp\\TechTreeApp.csproj",
+        "projectUniqueName": "C:\\Users\\jcsaladin\\source\\repos\\TechTreeApp\\TechTreeApp.csproj",
         "projectName": "TechTreeApp",
-        "projectPath": "C:\\Users\\Desarrollo TI\\source\\repos\\TechTreeApp\\TechTreeApp.csproj",
-        "packagesPath": "C:\\Users\\Desarrollo TI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desarrollo TI\\source\\repos\\TechTreeApp\\obj\\",
+        "projectPath": "C:\\Users\\jcsaladin\\source\\repos\\TechTreeApp\\TechTreeApp.csproj",
+        "packagesPath": "C:\\Users\\jcsaladin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jcsaladin\\source\\repos\\TechTreeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Desarrollo TI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jcsaladin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
