@@ -21,32 +21,42 @@ namespace TechTreeApp.Areas.Admin.Controllers
         }
 
 
-        public IActionResult Create()
+        public IActionResult Create(int categoryItemId, int categoryId)
         {
-            return View();
+            Content content = new Content() 
+            { 
+                CategoryId = categoryId,
+                CatItemId = categoryItemId
+            };
+
+            return View(content);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,HTMLContent,VideoLink")] Content content)
+        public async Task<IActionResult> Create([Bind("Id,Title,HTMLContent,VideoLink,CatItemId,CategoryId")] Content content)
         {
             if (ModelState.IsValid)
             {
+                content.CategoryItem = await _context.CategoryItem.FindAsync(content.CatItemId);
                 _context.Add(content);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+
+                return RedirectToAction(nameof(Index), "CategoryItem", new { categoryId = content.CategoryId });
             }
             return View(content);
         }
 
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int categoryItemId, int categoryId)
         {
-            if (id == null)
+            if (categoryItemId == 0)
             {
                 return NotFound();
             }
 
-            var content = await _context.Content.FindAsync(id);
+            var content = await _context.Content.SingleOrDefaultAsync(item => item.CategoryItem.Id == categoryItemId);
+            content.CategoryId = categoryId;
+
             if (content == null)
             {
                 return NotFound();
@@ -56,7 +66,7 @@ namespace TechTreeApp.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,HTMLContent,VideoLink")] Content content)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,HTMLContent,VideoLink,CatItemId,CategoryId")] Content content)
         {
             if (id != content.Id)
             {
@@ -81,7 +91,7 @@ namespace TechTreeApp.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index), "CategoryItem", new { categoryId = content.CategoryId });
             }
             return View(content);
         }
