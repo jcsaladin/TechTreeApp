@@ -21,10 +21,13 @@ namespace TechTreeApp.Areas.Admin.Controllers
             _context = context;
         }
 
-        // GET: Admin/CategoryItem
         public async Task<IActionResult> Index(int categoryId)
         {
             List<CategoryItem> list = await (from catItem in _context.CategoryItem
+                                             join contenItem in _context.Content
+                                             on catItem.Id equals contenItem.CategoryItem.Id
+                                             into gj
+                                             from subContent in gj.DefaultIfEmpty()
                                              where catItem.CategoryId == categoryId
                                              select new CategoryItem
                                              {
@@ -33,7 +36,8 @@ namespace TechTreeApp.Areas.Admin.Controllers
                                                  Description = catItem.Description,
                                                  DateTimeItemReleased = catItem.DateTimeItemReleased,
                                                  MediaTypeId = catItem.MediaTypeId,
-                                                 CategoryId = categoryId
+                                                 CategoryId = categoryId,
+                                                 ContentId = (subContent != null) ? subContent.Id : 0
                                              }).ToListAsync();
 
 
@@ -43,7 +47,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(list);
         }
 
-        // GET: Admin/CategoryItem/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -61,7 +64,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(categoryItem);
         }
 
-        // GET: Admin/CategoryItem/Create
         public async Task<IActionResult> Create(int categoryId)
         {
             List<MediaType> mediaTypes = await _context.MediaType.ToListAsync();
@@ -75,9 +77,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(categoryItem);
         }
 
-        // POST: Admin/CategoryItem/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Title,Description,CategoryId,MediaTypeId,DateTimeItemReleased")] CategoryItem categoryItem)
@@ -91,7 +90,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(categoryItem);
         }
 
-        // GET: Admin/CategoryItem/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -99,17 +97,19 @@ namespace TechTreeApp.Areas.Admin.Controllers
                 return NotFound();
             }
 
+            List<MediaType> mediaTypes = await _context.MediaType.ToListAsync();
+
             var categoryItem = await _context.CategoryItem.FindAsync(id);
             if (categoryItem == null)
             {
                 return NotFound();
             }
+
+            categoryItem.MediaTypes = mediaTypes.ConvertToSelectList(categoryItem.MediaTypeId);
+
             return View(categoryItem);
         }
 
-        // POST: Admin/CategoryItem/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,CategoryId,MediaTypeId,DateTimeItemReleased")] CategoryItem categoryItem)
@@ -137,12 +137,11 @@ namespace TechTreeApp.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index), new { categoryId = categoryItem.CategoryId });
             }
             return View(categoryItem);
         }
 
-        // GET: Admin/CategoryItem/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -160,7 +159,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(categoryItem);
         }
 
-        // POST: Admin/CategoryItem/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
@@ -168,7 +166,7 @@ namespace TechTreeApp.Areas.Admin.Controllers
             var categoryItem = await _context.CategoryItem.FindAsync(id);
             _context.CategoryItem.Remove(categoryItem);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Index), new { categoryId = categoryItem.CategoryId });
         }
 
         private bool CategoryItemExists(int id)

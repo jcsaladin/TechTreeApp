@@ -20,13 +20,11 @@ namespace TechTreeApp.Areas.Admin.Controllers
             _context = context;
         }
 
-        // GET: Admin/Category
         public async Task<IActionResult> Index()
         {
             return View(await _context.Category.ToListAsync());
         }
 
-        // GET: Admin/Category/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -44,15 +42,11 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(category);
         }
 
-        // GET: Admin/Category/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Admin/Category/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Title,Description,ThumbnailImagePath")] Category category)
@@ -66,7 +60,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(category);
         }
 
-        // GET: Admin/Category/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -82,9 +75,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(category);
         }
 
-        // POST: Admin/Category/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,ThumbnailImagePath")] Category category)
@@ -117,7 +107,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(category);
         }
 
-        // GET: Admin/Category/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -135,7 +124,6 @@ namespace TechTreeApp.Areas.Admin.Controllers
             return View(category);
         }
 
-        // POST: Admin/Category/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
